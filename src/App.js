@@ -16,7 +16,7 @@ function App() {
         <Marker position={[38.3643, 20.7233]}>
           <Popup style="font-size: 11px;">
             Ithaca<br />
-            “I am Odysseus, Laertes’ son, known for my many clever tricks and lies. My fame extends to heaven, but I live in Ithaca, where shaking forest hides Mount Neriton. Close by are other islands: Dulichium, and wooded Zacynthus and Same. All the others face the dawn; my Ithaca is set apart, most distant, facing the dark. It is a rugged land, but good at raising children. To my eyes no country could be sweeter. Lines 20-30 in book 9” <br /><br />
+            “I am Odysseus, Laertes’ son, known for my many clever tricks and lies. My fame extends to heaven, but I live in Ithaca, where shaking forest hides Mount Neriton. Close by are other islands: Dulichium, and wooded Zacynthus and Same. All the others face the dawn; my Ithaca is set apart, most distant, facing the dark. It is a rugged land, but good at raising children. To my eyes no country could be sweeter.” (Od. 9.20-30) <br /><br />
             Description:<br />
             Ithaca is a remote island in the Ionian Sea. It is the kingdom where Odysseus was born and is very significant to the story in the Odyssey because it is his home. It is the place that Odysseus wants to return to. Ithaca is a beautiful place with a rocky landscape and is isolated position in the middle of the sea. This place reflects the arduous journey that Odysseus must have to go through to reclaim his home<br /><br />
             Analysis:<br />
@@ -30,8 +30,7 @@ function App() {
           <Popup>
             Troy <br />
             Cited Quote from "The Odyssey" <br />
-            “How tough he was! And what impressive fortitude he showed inside the Wooden Horse! We fighters lurked inside, to bring destruction to the Trojans. You came there too. Some spirit who desired to glorify the Trojans urged you on.” <br />
-            Book 4, lines 270-275. <br /><br />
+            “How tough he was! And what impressive fortitude he showed inside the Wooden Horse! We fighters lurked inside, to bring destruction to the Trojans. You came there too. Some spirit who desired to glorify the Trojans urged you on.” (Od. 4.270-275) <br /> <br />
             Description <br />
             Troy was known for its central role in the Trojan War. It is described through flashbacks such as the one above. It was a background where Trojan warriors and Greeks would fight over honor, love and retribution. The war’s climax was epitomized by the deception of the Trojan Horse (strategy by Odysseus), marks the height of the Greek’s military prowess. <br /><br />
             Analysis <br />
@@ -46,8 +45,7 @@ function App() {
           <Popup>
             Pylos  <br />
             Quote: <br />
-            Telemachus arrived in Pylos, where the Pylians were bringing to the beach black bulls for blue Poseidon, Lord of Earthquakes. There were nine benches, fifty men on each, and each group had nine bulls to sacrifice. They burned the thigh-bones for the god, and ate the innards. <br />
-            Book 3: 4-10 <br /><br />
+            “Telemachus arrived in Pylos, where the Pylians were bringing to the beach black bulls for blue Poseidon, Lord of Earthquakes. There were nine benches, fifty men on each, and each group had nine bulls to sacrifice. They burned the thigh-bones for the god, and ate the innards.” (Od. 3.4-10) <br /><br />
             Description  <br />
             Pylos is a peaceful and orderly kingdom under the rule of Nestor who is the aged king that is known for his hospitality of others. It is a very serene place, known for its respect and religious holdings towards Poseidon. It's very different from Ithaca, which is a city that is much more chaotic and where disorder has erupted because Odysseus was not present. <br /><br />
             Analysis  <br />
@@ -62,8 +60,7 @@ function App() {
           <Popup>
             Sparta: <br />
             Cited Quote from "The Odyssey" <br />
-            “They came to Sparta, land of caves and valleys, and drove to Menelaus’ house. They found him hosting a wedding feast for many guests to celebrate his children’s marriages.” <br />
-            — Telemachus describes his arrival in Sparta in Book 4, lines 1-4. <br /><br />
+            “They came to Sparta, land of caves and valleys, and drove to Menelaus’ house. They found him hosting a wedding feast for many guests to celebrate his children’s marriages.” (Od. 4.1-4) <br /><br />
             Description <br />
             Sparta is ruled by King Menelaus and Queen Helen, and represents great wealth in the poem. It is very different to other locations in the poem. Telemachus visits because of its peace and prosperity. The city is a well fortified place and is in the middle of a valley, which shows it being a historical military strength. <br /><br />
             Analysis <br />
@@ -78,8 +75,7 @@ function App() {
           <Popup>
             Ogygia: <br />
             Cited Quote from "The Odyssey" <br />
-            “He must swoop down to Ogygia right away and tell the beautiful Calypso we have formed a firm decision that Odysseus has waited long enough” <br />
-            Book 1: 81-87 <br /><br />
+            “He must swoop down to Ogygia right away and tell the beautiful Calypso we have formed a firm decision that Odysseus has waited long enough” (Od. 1.81-87)<br /><br />
             Description <br />
             Ogygia is a remote enchanting, island that is shrouded by mystery and completely isolated from the rest of the world. Calypso lives there by herself. The setting is very lush and filled with natural beauty that both captivates and imprisons Odysseus for 7 years. <br /><br />
             Analysis <br />
@@ -94,7 +90,7 @@ function App() {
           <Popup>
             Isle of the Lotus Eaters: <br />
             Quote <br />
-            "But as they ate it, they lost the will to come back and bring news to me. They wanted only to stay there, feeding on lotus with the Lotus-Eaters. They had forgotten home." - Book 9, Lines 93-96. <br /><br />
+            "But as they ate it, they lost the will to come back and bring news to me. They wanted only to stay there, feeding on lotus with the Lotus-Eaters. They had forgotten home." (Od. 9.93-96)<br /><br />
             Description <br />
             The island of the Lotus Eaters was a very deceptive place for Odysseus and his men. Whoever came to the island to eat the lotus would forget about their past and lose any desire to go home, which was pivotal for Odysseus because his main goal was to go home. The isle was very peaceful, contrary to many other places in the Odyssey, including Odysseus's home in Ithaca. The landscape was very deceptive for Odysseus and his men. <br /><br />
             Analysis <br />
@@ -121,7 +117,7 @@ function App() {
           <Popup>
             Circe’s Island (Aeaea) <br />
             Quote <br />
-            "Her belly slumps inside the hollow cave; she keeps her heads above the yawning chasm and scopes around the rock, and hunts for fish." - Book 12, Lines 92-94 <br /><br />
+            "Her belly slumps inside the hollow cave; she keeps her heads above the yawning chasm and scopes around the rock, and hunts for fish." (Od. 12.92-94)<br /><br />
             Description <br />
             Circe's island, Aeaea, is depicted as a beautiful, but dangerous, place. It is lush with dense forests and meadows, and the air is perfumed with flowers that mask the underlying threat. Circe’s island has a palace set up in the woodland that is surrounded by wolves and lions. The island has a deceptive charm, which makes visitors feel safe, but in reality Circe was hiding its terrible dangers. This setting blends natural beauty with Circe’s dual nature as a hostess but also a perilous sorceress. <br /><br />
             Analysis <br />
@@ -137,11 +133,11 @@ function App() {
           <Popup>
             Scylla<br />
             Quote <br />
-            “She catches dolphins, seals, and sometimes even enormous whales...No sailors ever pass that way unharmed." - Book 12, Lines 95-96, 98 <br /><br />
+            “She catches dolphins, seals, and sometimes even enormous whales...No sailors ever pass that way unharmed." (Od. 12.95-98)<br /><br />
             Description <br />
-            Scylla is a part of a cave that is at a rugged cliff located in one of the narrowest parts of the sea. This part of the sea is violent and has waves crashing against rocks and reflects the monster’s growls filling the air. The cliff itself is quite foreboding, which gives a sense of imminent doom and danger. Scylla’s presence added a layer of tension that was almost tangible as sailors navigated this area fearing the imminent danger. <br /><br />
+            Scylla is situated on a rough cliff on one of the narrowest parts of the sea. This part of the sea is extremely violent and has waves crashing against rocks which reflects the monster’s growls filling the air. The cliff is scary to look and demonstrates imminent danger.  <br /><br />
             Analysis <br />
-            Odysseus’s encounter with Scylla is a major event that tests his leadership under extreme pressure. He knows that confronting Scylla will lead to unavoidable casualties, which really emphasizes the realities of leadership where sometimes a leader must choose between the lesser of two evils for the sake of the majority. This was a major point in Odysseus’s character advancement as it showed his ability to make logical and ethical decisions when facing personal losses. The setting of Scylla really adds a layer of tragedy to the narrative and really shows the difficulty of the world that Odysseus has to overcome. <br />
+            Odysseus’s encounter with Scylla is very important for the poem and it tests his leadership under very intense pressure. Going to Scylla will lead to unavoidable deaths, which shows the reality of leadership: sometimes a leader  must choose between the lesser of two evils. This was a major point int Odysseus’s character advancement and showed his ability to make rational decisions when facing personal loss. This setting at Scylla adds to the tragedy in the poem and shows the difficulty that Odysseus will be dealing with. <br />
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castello_scilla.jpg/440px-Castello_scilla.jpg" alt="Charybdis" style={{ width: '100%', height: 'auto' }} />
           </Popup>
 
@@ -150,11 +146,11 @@ function App() {
           <Popup>
             Charybdis <br />
             Quote <br />
-            “Divine Charybdis sucks black water down. Three times a day she spurts it up; three times she glugs it down." - Book 12, Lines 104-106 <br /><br />
+            “Divine Charybdis sucks black water down. Three times a day she spurts it up; three times she glugs it down." (Od. 12.104-106) <br /><br />
             Description <br />
-            Charybdis is near Scylla which is on the opposite side of a narrow sea passage. One of its major characteristics is a gigantic whirlpool that is created three times a day, and each it will suck in a release a huge amount of water. The sea surrounding Charybdis is violent, with rampaging waters and loud sounds that signal impending danger. The whirlpool is quite provoking, embodying a never-ending force of nature that threatens to consume anything it can reach. <br /><br />
+            Charybdis is near Scylla which is the opposite side of a narrow sea passage. It is known for being a gigantic whirlpool that is created 3 times a day and will suck in a huge amount of water. The surroundings of Charybdis are also very violent. Lastly, the whirlpool is very provoking, showing a never-ending force of nature that tries to consume anything it can see.  <br /><br />
             Analysis <br />
-            Charybdis embodies the unpredictable challenges that life can present to people. The constant threat of Charybdis tested Odysseus’s crew on their adaptability and endurance. To safely navigate Charybdis, you need to have great precision and be willing to accept your limitations, skills that Odysseus developed through his journey. The obstacle challenged Odysseus to keep persevering while facing high-stakes and reflected the struggle of humans facing forces larger than themselves. Charybdis was a key metaphor for the coming trials that redefined ones’ character, which were key elements that help Odysseus to mature and eventually return home successfully. <br />
+            Charybdis embodies the unpredictable challenges that life can put onto people. The constant thread of Charybdis made the crew adapt and endure the constant struggle that could occur in the middle of the sea. To safely navigate Charybdis, you need to have great precision and need to accept your own limitations, skills that Odysseus obtained during his journey. The obstacle made Odysseus keep persevering while facing the high-stakes. Charybdis was a key metaphor for the coming trials that redefined ones’ character, which were key elements that helped Odysseus to mature and eventually return home successfully. <br />
             <img src="https://greekgodsandgoddesses.net/wp-content/uploads/2022/01/Charybdis.jpg" alt="Charybdis" style={{ width: '100%', height: 'auto' }} />
           </Popup>
 
